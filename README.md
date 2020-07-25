@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-# Greeding Travelers! 👋
+# Greeting travelers! 👋
