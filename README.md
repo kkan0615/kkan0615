@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 
 
 # Greeting travelers! 👋
+
+## Who am i? 🤔
+
+## Tech stack
+1. Typescript
+2. Vue
+3. Express
+4. Ms sql
+5. Django, Python
+
+## Do you wanna Contact with me? :speech_balloon:
+Email: kkan0615@gmail.com
