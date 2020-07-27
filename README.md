@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 2. Vue
 3. Express
 4. Ms sql
-5. Django, Python
 
-## Would you like to know of me more? :speech_balloon:
+## I’m currently working on ...
+
+## I’m currently learning ...
+
+## Would you like to reach me? :speech_balloon:
 Click here kkan0615@gmail.com !
