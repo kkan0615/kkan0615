@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 5. Django, Python
 
 ## Do you wanna Contact with me? :speech_balloon:
-Email: kkan0615@gmail.com
+Click here kkan0615@gmail.com !
