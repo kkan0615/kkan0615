@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 4. Ms sql
 5. Django, Python
 
-## Do you wanna Contact with me? :speech_balloon:
+## Would you like to know of me more? :speech_balloon:
 Click here kkan0615@gmail.com !
