@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ## I’m currently learning ...
 
 ## Would you like to reach me? :speech_balloon:
-Click here kkan0615@gmail.com !
+Email: kkan0615@gmail.com !
