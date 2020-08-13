@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## I’m currently working on ...
 
 ## I’m currently learning ...
+1. GO lang
 
 ## Would you like to reach me? :speech_balloon:
 Email: kkan0615@gmail.com !
