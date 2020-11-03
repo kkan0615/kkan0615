@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ## Who am i? 🤔
 I am web developer working with typescript. I am able to do cross work front and backside with DB handling!
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 
 ## My Main Tech stack ...
 1. Typescript
