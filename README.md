@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
+
 # Greeting travelers! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkan0615%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Who am i? 🤔
+<div dir='ltr>
 I am web developer working with typescript. I am able to do cross work front and backside with DB handling!
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkan0615)](https://solved.ac/kkan0615)
+<div dir='rtl>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Main Tech stack ...
