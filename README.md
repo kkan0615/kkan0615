@@ -2,6 +2,8 @@
 <!--
 **kkan0615/kkan0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -34,6 +36,3 @@ I am web developer working with typescript. I am able to do cross work front and
 
 ## Would you like to reach me? :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkan0615@gmail.com)](mailto:kkan0615@gmail.com)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
