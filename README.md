@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 1. GO lang
 
 ## Would you like to reach me? :speech_balloon:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com): kkan0615@gmail.com !
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkan0615@gmail.com)](mailto:kkan0615@gmail.com)
