@@ -2,8 +2,6 @@
 <!--
 **kkan0615/kkan0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
 
 # Greeting travelers! 👋
 
