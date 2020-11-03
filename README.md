@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## Who am i? 🤔
 <!-- <div dir='ltr> -->
-I am web developer working with typescript. I am able to do cross work front and backside with DB handling!
-<!-- <div dir='rtl> -->  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am web developer working with typescript. I am able to do cross work front and backside with DB handling! 
+<!-- <div dir='rtl> -->  
 
 ## My Main Tech stack ...
 1. Typescript
