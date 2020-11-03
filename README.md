@@ -36,4 +36,4 @@ I am web developer working with typescript. I am able to do cross work front and
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkan0615@gmail.com)](mailto:kkan0615@gmail.com)
 
 
-https://github-profile-trophy.vercel.app/?username=kkan0615&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy)
