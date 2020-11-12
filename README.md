@@ -27,7 +27,7 @@ I am Professional Web developer! I love to learn new skills and work as team. Ho
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkan0615&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkan0615&show_icons=true)
 
 <!--
 ## My Main Tech stack ...
