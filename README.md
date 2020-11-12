@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 # Greeting travelers! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkan0615%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+Nice to meet u, my friends. Feel free to see my repositories. If you like it, don't forget to press like!
+
 ## Who am i? 🤔 
 I am Professional Web developer! I love to learn new skills and work as team. However, if no team, i sometimes work on my own !!
 
