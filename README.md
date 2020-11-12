@@ -1,32 +1,12 @@
-
-<!--
-**kkan0615/kkan0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- @TODO: Cetner 로 옮기기 -->
-<!-- 
-  랭킹용 - 나중에 하고싶으면 넣기
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kkan0615)](https://github.com/kkan0615/github-profile-trophy
--->
-
-
 # Greeting travelers! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkan0615%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Nice to meet u, my friends. Feel free to see my repositories. If you like it, don't forget to press like too!
 
-## Who am i? 🤔 
-I think i am Professional Web developer! 
-I also love to learn new skills and work as team. However, if no team, i sometimes work on my own !!
+## I think i am... 🤔 
+:computer: I am Professional Web developer! 
+:books: I am not afraid to learn new skill!
+:blush: I love to work as team. If no team, i am also good at work on my own!
+:octocat: I like to teach and share my skills or ideas with others!
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
