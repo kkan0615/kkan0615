@@ -3,10 +3,10 @@
 Nice to meet u, my friends. Feel free to see my repositories. If you like it, don't forget to press like too!
 
 ## I think i am... 🤔 
-:computer: I am Professional Web developer! 
-:books: I am not afraid to learn new skill!
-:blush: I love to work as team. If no team, i am also good at work on my own!
-:octocat: I like to teach and share my skills or ideas with others!
+1. :computer: I am Professional Web developer! 
+2. :books: I am not afraid to learn new skill!
+3. :blush: I love to work as team. If no team, i am also good at work on my own!
+4. :octocat: I like to teach and share my skills or ideas with others!
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
