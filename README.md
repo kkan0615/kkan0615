@@ -13,7 +13,7 @@ Nice to meet u, my friends. Feel free to see my repositories. If you like it, do
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkan0615&show_icons=true)
 
 ## I’m currently learning ...
-1. Python and OpenCV
+1. Vue 3
 2. React Native
 
 ## How to reach me? :speech_balloon:
