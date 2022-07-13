@@ -15,7 +15,8 @@ Nice to meet u, my friends. Feel free to see my repositories. If you like it, do
 ## I’m currently learning ...
 1. Vue 3
 2. Fullter
-3. Nest js
+3. React and Nextjs
+3. .Net
 
 ## How to reach me? :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkan0615@gmail.com)](mailto:kkan0615@gmail.com)
