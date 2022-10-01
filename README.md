@@ -12,11 +12,14 @@ Nice to meet u, my friends. Feel free to see my repositories. If you like it, do
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkan0615&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkan0615&show_icons=true)
 
+# Coding test
+![](https://leetcard.jacoblin.cool/kkan0615)
+
 ## I’m currently learning ...
 1. Vue 3
 2. Fullter
 3. React and Nextjs
-3. .Net
+4. .Net
 
 ## How to reach me? :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkan0615@gmail.com)](mailto:kkan0615@gmail.com)
