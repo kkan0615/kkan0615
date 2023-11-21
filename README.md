@@ -4,9 +4,9 @@
 Nice to meet you, my friends. Feel free to see my repositories. If you like it, don't forget to press like too!
 
 ## I think i am... 🤔 
-1. :computer: I am Professional Web developer! 
-2. :books: I am not afraid to learn new skill!
-3. :blush: I love to work as team. If no team, i am also good at work on my own!
+1. :computer: I am Professional Web Full Stack Developer! 
+2. :books: I am not afraid to learn new skills!
+3. :blush: I am probelm solver!
 4. :octocat: I like to teach and share my skills or ideas with others!
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
